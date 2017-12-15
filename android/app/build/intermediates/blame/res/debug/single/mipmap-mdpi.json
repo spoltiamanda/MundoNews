@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/spolti/NewsApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/world_icon.png",
+        "source": "/home/spolti/NewsApp/android/app/src/main/res/mipmap-mdpi/world_icon.png"
+    },
+    {
+        "merged": "/home/spolti/NewsApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/spolti/NewsApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
